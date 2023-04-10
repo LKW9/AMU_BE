@@ -250,7 +250,7 @@
 
 ## Architecture
 
-![Lv1 (2)](https://user-images.githubusercontent.com/92284361/227671717-3aa5e288-ba84-48c3-9711-057d0a901efb.png)
+![Lv1_1](https://user-images.githubusercontent.com/92284361/230899525-81fe98ae-8687-4df7-a568-67e5dc9d7f45.png)
 
 
 
