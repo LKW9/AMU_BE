@@ -11,7 +11,6 @@ services:
     ports:
       - '3000:3000'
     environment:
-      MONGO_URI: mongodb+srv://Bechallengers:FsCkbE2PkhNM8rw0@amuwiki.nhurd.mongodb.net/nest?retryWrites=true&w=majority
       ELASTICSEARCH_NODE: https://amu.es.ap-northeast-2.aws.elastic-cloud.com
     networks:
       net:
